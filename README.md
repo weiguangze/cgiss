@@ -20,7 +20,7 @@ CGISS是Chinese Geographic information-Storage Specification的简称，是一�
 * 功能插件的管理功能，功能插件的注册、删除等
 * 矢量数据的转换效率为9.1MB/S，栅格数据的转换效率为35.2MB/S
 ## 框架
-![框架](https://ooo.0o0.ooo/2017/06/15/594225f2ac3b4.png)
+![](https://ooo.0o0.ooo/2017/06/15/5942266f25236.png)
 
 
 
