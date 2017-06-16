@@ -16,9 +16,7 @@ CGISS是Chinese Geographic information-Storage Specification的简称，是一�
 ## 基本功能
 * 将国内各GIS厂商以及ArcGIS的矢量、栅格数据转换为矢量、栅格标准交换格式
 * 将矢量、栅格标准交换格式转换成各GIS厂商以及ArcGIS的矢量、栅格格式
-* 矢量、栅格标准交换格式进行投影变换、数据检查等数据操作
 * 功能插件的管理功能，功能插件的注册、删除等
-* 矢量数据的转换效率为9.1MB/S，栅格数据的转换效率为35.2MB/S
 ## 框架
 ![](https://ooo.0o0.ooo/2017/06/15/5942266f25236.png)
 
